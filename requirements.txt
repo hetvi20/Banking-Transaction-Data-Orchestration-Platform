@@ -1,0 +1,16 @@
+prefect>=2.14.0
+dbt-core>=1.7.0
+dbt-sqlserver>=1.7.0
+alembic>=1.13.0
+sqlalchemy>=2.0.0
+azure-storage-file-datalake>=12.14.0
+azure-identity>=1.15.0
+azure-synapse-analytics>=0.1.0
+pandas>=2.1.0
+pyarrow>=14.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+loguru>=0.7.2
+pytest>=7.4.0
+great-expectations>=0.18.0
